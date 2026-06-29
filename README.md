@@ -33,10 +33,10 @@ provides accurate disease detection along with personalized treatment recommenda
 
 ##  Tech Stack
 
-- **Mobile** — React Native / Flutter
-- **AI/ML** — Claude AI (Anthropic) for intelligent analysis
-- **Backend** — Node.js / Python
-- **Database** — Firebase / PostgreSQL
+- **Mobile** — Flutter (Dart)
+- **AI/ML** — Claude AI (Anthropic) + Python for image analysis
+- **Backend** — Python (FastAPI / Flask)
+- **Database** — Firebase
 
 ---
 

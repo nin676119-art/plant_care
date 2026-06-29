@@ -1,11 +1,11 @@
-# 🌿 PlantCare AI — Smart Plant Disease Detection
+#  PlantCare AI — Smart Plant Disease Detection
 
 An intelligent mobile application that uses AI to detect plant diseases, 
 recommend treatments, and track plant health over time.
 
 ---
 
-## 🎯 About the Project
+##  About the Project
 
 PlantCare AI helps farmers and gardeners identify plant diseases instantly 
 using their smartphone camera. The app analyzes plant images with AI and 
@@ -13,16 +13,16 @@ provides accurate disease detection along with personalized treatment recommenda
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📸 **Disease Detection** — Take a photo of your plant and get instant AI-powered diagnosis
-- 💊 **Treatment Recommendations** — Get personalized treatment plans based on the detected disease
-- 📊 **Plant Health Tracking** — Monitor your plant's health evolution over time
-- 🌍 **Multi-language Support** — Accessible to farmers worldwide
+-  **Disease Detection** — Take a photo of your plant and get instant AI-powered diagnosis
+-  **Treatment Recommendations** — Get personalized treatment plans based on the detected disease
+-  **Plant Health Tracking** — Monitor your plant's health evolution over time
+-  **Multi-language Support** — Accessible to farmers worldwide
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. Take a photo of your plant
 2. AI analyzes the image and detects any disease
@@ -31,7 +31,7 @@ provides accurate disease detection along with personalized treatment recommenda
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Mobile** — React Native / Flutter
 - **AI/ML** — Claude AI (Anthropic) for intelligent analysis
@@ -40,7 +40,7 @@ provides accurate disease detection along with personalized treatment recommenda
 
 ---
 
-## 🌱 Why Open Source?
+##  Why Open Source?
 
 We believe that access to smart agricultural tools should be available 
 to everyone, especially small farmers and developing communities. 
@@ -52,7 +52,7 @@ By open-sourcing this project, we aim to:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
@@ -61,6 +61,6 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
